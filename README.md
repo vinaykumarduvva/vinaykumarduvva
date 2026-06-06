@@ -59,7 +59,7 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Vinay's GitHub stats" />
+  [![Vinay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay1515)](https://github.com/vinay1515/github-readme-stats)
 </p>
 
 <p align="center">

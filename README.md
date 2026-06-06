@@ -11,7 +11,11 @@
 
 ## About Me
 
-I'm a cloud and infrastructure engineer transitioning from two years in IT operations at Cognizant into hands-on cloud engineering roles. I work across AWS, GCP, and Azure, and I'm drawn to automation, infrastructure-as-code, and building systems that stay reliable under pressure. Right now I'm targeting Cloud Engineer, DevOps, and SRE roles across India where I can put my certifications and self-directed project work into production use.
+I'm Vinay Kumar, based in Hyderabad. For the past two years at Cognizant, I've worked as a Senior Process Executive in Digital Content Services, supporting Google operations. The work involved complex data curation and extraction to support ad generation for US-based end users, done at high volume with a 99.9% quality standard and tight turnaround requirements. That environment built real discipline in me around ownership, troubleshooting under pressure, and keeping the customer outcome front and center.
+
+In parallel, I kept building toward cloud and infrastructure. My hands-on work spans AWS, GCP, and Azure, covering EC2, S3, VPCs, Kubernetes clusters, Terraform automation, monitoring, and network configuration. I've backed that up with the AWS Solutions Architect Associate, Google Professional Cloud Architect, and Azure Network Engineer Associate certifications.
+
+I'm now looking to move fully into cloud infrastructure roles. What draws me to this space is the combination of technical problem-solving, customer impact, and the fact that there's always more to learn. My background in production-focused, quality-driven environments gives me a head start, and cloud engineering is where I want to grow from here.
 
 ---
 

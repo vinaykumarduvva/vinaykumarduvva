@@ -2,11 +2,13 @@
 
 ### Cloud & Infrastructure Engineer | DevOps Enthusiast | Hyderabad, India
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-duvva/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinay1515)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=firefox&logoColor=white)](https://vinay-kumar-duvva-portfoilo.s3.ap-south-1.amazonaws.com/My+Portfoilo+Website/index.html)
-[![Credly](https://img.shields.io/badge/Credly-ffc207?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/duvva-vinay-kumar/badges)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:duvvavinaykumar@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinay-kumar-duvva/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/vinay1515"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://vinay-kumar-duvva-portfoilo.s3.ap-south-1.amazonaws.com/My+Portfoilo+Website/index.html"><img src="https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.credly.com/users/duvva-vinay-kumar/badges"><img src="https://img.shields.io/badge/Credly-ffc207?style=flat&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="mailto:duvvavinaykumar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 

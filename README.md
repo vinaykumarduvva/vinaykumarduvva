@@ -2,7 +2,7 @@
 
 ### Cloud & Infrastructure Engineer | DevOps Enthusiast | Hyderabad, India
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-duvva/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-duvva/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinay1515)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=firefox&logoColor=white)](https://vinay-kumar-duvva-portfoilo.s3.ap-south-1.amazonaws.com/My+Portfoilo+Website/index.html)
 [![Credly](https://img.shields.io/badge/Credly-ffc207?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/duvva-vinay-kumar/badges)

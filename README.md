@@ -56,26 +56,23 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 ## 📊 GitHub Stats
 
-<table align="center" width="100%">
-  <!-- Row 1: General Stats & Top Languages -->
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://vercel.app" width="100%" alt="Vinay's GitHub stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://vercel.app" width="100%" alt="Top languages" />
-    </td>
-  </tr>
-  <!-- Row 2: Streak Stats & Activity Graph -->
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://herokuapp.com" width="100%" alt="GitHub streak stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://herokuapp.com" width="100%" alt="GitHub activity graph" />
-    </td>
-  </tr>
-</table>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Vinay's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vinay1515&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
 
 ---
 

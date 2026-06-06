@@ -58,20 +58,22 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 ## GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  [![Vinay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay1515)](https://github.com/vinay1515/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vinay Kumar GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vinay1515&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---

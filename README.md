@@ -58,24 +58,11 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1515&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 ## Featured Projects

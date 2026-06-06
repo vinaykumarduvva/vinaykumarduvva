@@ -30,11 +30,11 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
     <img src="https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   </a>
 
-  <a href="https://learn.microsoft.com/en-us/users/duvvavinaycognizant-4225/credentials/3ab0b7aae8733372">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DuvvaVinayCognizant-4225/3AB0B7AAE8733372?sharingId=C4C49C18E4DAEF18">
     <img src="https://img.shields.io/badge/Azure-Network%20Engineer%20Associate-AZ--700-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </a>
 
-  <a href="https://learn.microsoft.com/en-us/users/duvvavinaycognizant-4225/credentials/6ce713890b5c749bF">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DuvvaVinayCognizant-4225/6CE713890B5C749B?sharingId=C4C49C18E4DAEF18">
     <img src="https://img.shields.io/badge/Azure-Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </a>
 </p>

@@ -56,12 +56,37 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 ## 📊 GitHub Analytics
 
+<!-- Row 1 -->
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+       src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Row 2 -->
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinay1515&theme=tokyonight"/>
+</p>
+
+<!-- Row 3 -->
+<p align="center">
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1515&theme=tokyonight"/>
+
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinay1515&theme=tokyonight"/>
+</p>
+
+<!-- Row 4 -->
+<p align="center">
+  <img width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
 

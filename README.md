@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-duvva/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinay1515)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=firefox&logoColor=white)](https://vinay-kumar-duvva-portfoilo.s3.ap-south-1.amazonaws.com/My+Portfoilo+Website/index.html)
+[![Credly](https://img.shields.io/badge/Credly-View%20My%20Badges-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/duvva-vinay-kumar/badges)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:duvvavinaykumar@gmail.com)
 
 ---
@@ -156,6 +157,14 @@ Foundational C and C++ programs covering pointers, memory management, and data s
   - Focused on quality scoring, process consistency, and cross-team coordination
 - **Self-directed cloud projects** across AWS, GCP, and Azure covering IaC (Terraform), container orchestration (GKE), VNet architecture, and multi-region deployments
 - **B.Tech, Electronics and Communication Engineering** — Sri Indu Institute of Engineering and Technology
+
+---
+## 🏅 Verify My Certifications
+
+🔗 **Credly Profile:**  
+https://www.credly.com/users/duvva-vinay-kumar/badges
+
+AWS • Google Cloud • Azure Certifications
 
 ---
 

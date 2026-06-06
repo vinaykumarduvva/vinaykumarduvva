@@ -21,10 +21,23 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 ## Certifications
 
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GCP PCA](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AZ-700](https://img.shields.io/badge/Azure-Network%20Engineer%20Associate%20AZ--700-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AZ-900](https://img.shields.io/badge/Azure-Fundamentals%20AZ--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+<p align="center">
+  <a href="https://www.credly.com/badges/79b9f340-476d-4efd-a17a-8f48ec1b41f3/public_url">
+    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/badges/078b2ff1-acec-460e-9280-2f2f71a9c9f8/public_url">
+    <img src="https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/users/duvvavinaycognizant-4225/credentials/3ab0b7aae8733372">
+    <img src="https://img.shields.io/badge/Azure-Network%20Engineer%20Associate-AZ--700-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/users/duvvavinaycognizant-4225/credentials/6ce713890b5c749bF">
+    <img src="https://img.shields.io/badge/Azure-Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
 
 ---
 

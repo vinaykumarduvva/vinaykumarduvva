@@ -54,43 +54,28 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vinay Kumar GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=vinay1515&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1515&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1515&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1515&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true"/>
 </p>
+
 ---
 
 ## Featured Projects

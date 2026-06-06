@@ -56,26 +56,32 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true"/>
-
-  <img width="49%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1515&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="49%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinay1515&theme=tokyonight"/>
-
-  <img width="49%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinay1515&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true"/>
-</p>
+<table align="center" width="100%">
+  <!-- Row 1: Streak & Profile Details -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1515&theme=tokyonight" width="100%" alt="Profile details" />
+    </td>
+  </tr>
+  <!-- Row 2: Repos per Language & Most Commit Language -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinay1515&theme=tokyonight" width="100%" alt="Repos per language" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinay1515&theme=tokyonight" width="100%" alt="Most commit language" />
+    </td>
+  </tr>
+  <!-- Row 3: Full Width Activity Graph -->
+  <tr>
+    <td align="center" colspan="2" width="100%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub activity graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 

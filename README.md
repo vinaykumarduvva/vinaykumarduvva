@@ -92,7 +92,7 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarduvva&background=1A0B2E&border=FF2D95&stroke=00F0FF&ring=FF8C00&fire=FF2D95&currStreakNum=FFFFFF&sideNums=00F0FF&currStreakLabel=FF8C00&sideLabels=BB2FE0&dates=E0AAFF&hide_border=true&border_radius=14" width="100%" alt="GitHub streak stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarduvva&background=1A0B2E&border=FF2D95&stroke=00F0FF&ring=FF8C00&fire=FF2D95&currStreakNum=FFFFFF&sideNums=00F0FF&currStreakLabel=FF8C00&sideLabels=BB2FE0&dates=E0AAFF&hide_border=true&border_radius=14&v=1" width="100%" alt="GitHub streak stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaykumarduvva&theme=github_dark&title_color=FF2D95&text_color=FFFFFF&bg_color=1A0B2E&border_color=00D9FF&icon_color=FF8C00" width="100%" alt="Profile details" />

@@ -28,20 +28,34 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 <h2 align="center">🏅 Certifications</h2>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/79b9f340-476d-4efd-a17a-8f48ec1b41f3/public_url">
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA" />
-  </a>
-  <a href="https://www.credly.com/badges/078b2ff1-acec-460e-9280-2f2f71a9c9f8/public_url">
-    <img src="https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP PCA" />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DuvvaVinayCognizant-4225/3AB0B7AAE8733372?sharingId=C4C49C18E4DAEF18">
-    <img src="https://img.shields.io/badge/Azure-Network%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Network Engineer" />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DuvvaVinayCognizant-4225/6CE713890B5C749B?sharingId=C4C49C18E4DAEF18">
-    <img src="https://img.shields.io/badge/Azure-Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
-  </a>
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/79b9f340-476d-4efd-a17a-8f48ec1b41f3/public_url">
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS SAA" /><br>
+        <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA Badge" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/078b2ff1-acec-460e-9280-2f2f71a9c9f8/public_url">
+        <img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" alt="GCP PCA" /><br>
+        <img src="https://img.shields.io/badge/GCP_Professional_Cloud-Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP PCA Badge" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/DuvvaVinayCognizant-4225/3AB0B7AAE8733372?sharingId=C4C49C18E4DAEF18">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="100" alt="Azure Network Engineer Associate" /><br>
+        <img src="https://img.shields.io/badge/Azure_Network_Engineer-Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Network Badge" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/DuvvaVinayCognizant-4225/6CE713890B5C749B?sharingId=C4C49C18E4DAEF18">
+        <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="AZ-900" /><br>
+        <img src="https://img.shields.io/badge/Azure_Fundamentals-AZ--900-00BCF2?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,7 +92,7 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=vinaykumarduvva&background=45,FF6EC7,8A2BE2,00D9FF&border=FF2D95&stroke=00F0FF&ring=FF8C00&fire=FF2D95&currStreakNum=FFFFFF&sideNums=00F0FF&currStreakLabel=FF8C00&sideLabels=BB2FE0&dates=E0AAFF&hide_border=true&border_radius=14" width="100%" alt="GitHub streak stats" />
+      <img src="https://streak-stats.demolab.com/?user=vinaykumarduvva&background=1A0B2E&border=FF2D95&stroke=00F0FF&ring=FF8C00&fire=FF2D95&currStreakNum=FFFFFF&sideNums=00F0FF&currStreakLabel=FF8C00&sideLabels=BB2FE0&dates=E0AAFF&hide_border=true&border_radius=14" width="100%" alt="GitHub streak stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaykumarduvva&theme=github_dark&title_color=FF2D95&text_color=FFFFFF&bg_color=1A0B2E&border_color=00D9FF&icon_color=FF8C00" width="100%" alt="Profile details" />

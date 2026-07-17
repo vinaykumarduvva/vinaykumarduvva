@@ -7,7 +7,7 @@
   
   <p>
     <a href="https://www.linkedin.com/in/vinay-kumar-duvva/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/vinay1515"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/vinaykumarduvva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://vinay-kumar-duvva-portfoilo.s3.ap-south-1.amazonaws.com/My+Portfoilo+Website/index.html"><img src="https://img.shields.io/badge/Portfolio-%23FF6B35.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.credly.com/users/duvva-vinay-kumar/badges"><img src="https://img.shields.io/badge/Credly-%23ffc207.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
     <a href="mailto:duvvavinaykumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -78,23 +78,23 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1515&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="GitHub streak stats" />
+      <img src="https://streak-stats.demolab.com/?user=vinaykumarduvva&background=45,FF6EC7,8A2BE2,00D9FF&border=FF2D95&stroke=00F0FF&ring=FF8C00&fire=FF2D95&currStreakNum=FFFFFF&sideNums=00F0FF&currStreakLabel=FF8C00&sideLabels=BB2FE0&dates=E0AAFF&hide_border=true&border_radius=14" width="100%" alt="GitHub streak stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1515&theme=tokyonight" width="100%" alt="Profile details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaykumarduvva&theme=github_dark&title_color=FF2D95&text_color=FFFFFF&bg_color=1A0B2E&border_color=00D9FF&icon_color=FF8C00" width="100%" alt="Profile details" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinay1515&theme=tokyonight" width="100%" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaykumarduvva&theme=github_dark&title_color=00D9FF&text_color=FFFFFF&bg_color=1A0B2E&border_color=FF2D95&chart_color=FF6EC7,8A2BE2,00F0FF,FF8C00" width="100%" alt="Repos per language" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinay1515&theme=tokyonight" width="100%" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinaykumarduvva&theme=github_dark&title_color=FF8C00&text_color=FFFFFF&bg_color=1A0B2E&border_color=8A2BE2&chart_color=00F0FF,FF2D95,FFB347,BB2FE0" width="100%" alt="Most commit language" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" width="100%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1515&theme=tokyo-night&hide_border=true&border_radius=10" width="100%" alt="GitHub activity graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarduvva&bg_color=1A0B2E&color=00F0FF&line=FF2D95&point=FF8C00&area=true&area_color=8A2BE2&border_color=BB2FE0&custom_title=Contribution%20Activity&hide_border=true&radius=14" width="100%" alt="GitHub activity graph" />
     </td>
   </tr>
 </table>
@@ -121,13 +121,13 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://github.com/vinay1515/Vinay_kumar_AWS_Beginner_level_projects">AWS Beginner Projects</a></h3>
+      <h3>☁️ <a href="https://github.com/vinaykumarduvva/Vinay_kumar_AWS_Beginner_level_projects">AWS Beginner Projects</a></h3>
       <p>A hands-on AWS portfolio covering 14 projects from IAM and EC2 through ECS Fargate, all built on the Free Tier. Structured as a practical roadmap for anyone working toward the Solutions Architect exam.</p>
       <p><b>Stack:</b> AWS (IAM, EC2, S3, EBS, ECS), CloudFormation, CLI</p>
       <p><b>Status:</b> 🟢 Active</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/vinay1515/Vinay_Kumar-Portfoilo">Personal Portfolio</a></h3>
+      <h3>🌐 <a href="https://github.com/vinaykumarduvva/Vinay_Kumar-Portfoilo">Personal Portfolio</a></h3>
       <p>Personal portfolio website built with HTML, Tailwind CSS, and JavaScript. Hosted on AWS S3 as a static site. Designed to showcase my projects and skills with a modern aesthetic.</p>
       <p><b>Stack:</b> HTML, Tailwind CSS, JavaScript, AWS S3</p>
       <p><b>Status:</b> 🟢 Active | <b><a href="https://vinay-kumar-duvva-portfoilo.s3.ap-south-1.amazonaws.com/My+Portfoilo+Website/index.html">Live Demo</a></b></p>
@@ -135,13 +135,13 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/vinay1515/Cod-Tech-IT-Solutions">CodTech IT Solutions</a></h3>
+      <h3>💻 <a href="https://github.com/vinaykumarduvva/Cod-Tech-IT-Solutions">CodTech IT Solutions</a></h3>
       <p>Project work completed during the CodTech IT Solutions internship, covering Java-based tasks and assignments.</p>
       <p><b>Stack:</b> Java</p>
       <p><b>Status:</b> 🗄️ Archived</p>
     </td>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/vinay1515/Java-Programs.">Java Programs</a></h3>
+      <h3>☕ <a href="https://github.com/vinaykumarduvva/Java-Programs.">Java Programs</a></h3>
       <p>A collection of Java programs covering core language concepts, data structures, and algorithmic exercises.</p>
       <p><b>Stack:</b> Java</p>
       <p><b>Status:</b> 🟢 Active</p>
@@ -167,7 +167,7 @@ I'm now looking to move fully into cloud infrastructure roles. What draws me to 
 
 <p align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=vinay1515&style=flat-square&color=blue&label=Profile%20Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vinaykumarduvva&style=flat-square&color=blue&label=Profile%20Views" alt="Profile views" />
 </p>
 
 <p align="center">
